@@ -1,2 +1,2 @@
 # Alura-clusterizacao-clientes-bancarios
-Projeto de segmentação de clientes de um banco usando K-means, desenvolvido durante o curso "Clustering: extraindo padrões de dados". A análise identificou perfis distintos de clientes, permitindo a criação de estratégias personalizadas para cada grupo.
+Este projeto foi desenvolvido durante o curso 'Clustering: extraindo padrões de dados'. O objetivo era segmentar clientes de um banco em grupos com características comportamentais semelhantes, utilizando o algoritmo K-means. A análise dos clusters permitiu identificar perfis distintos de clientes, possibilitando a criação de estratégias personalizadas para cada segmento, visando otimizar o relacionamento e as ações de marketing do banco.
